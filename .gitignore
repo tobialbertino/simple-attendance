@@ -1,0 +1,4 @@
+# for learning purposes, the ignore will be minimized
+.vscode
+*.log
+main.exe
